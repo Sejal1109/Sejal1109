@@ -11,7 +11,7 @@ I am Sejal or you can call me Sej, a recent graduate from Ontario Tech Universit
 - Getting warm and cozy and playing video games in the winter 🥶
 - Baking breads and cakes when I have too much time to kill 🧑‍🍳
 
-Thanks for stopping bye :) 
+Thanks for stopping by :) 
 <!--
 
 **Sejal1109/Sejal1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
