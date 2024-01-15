@@ -11,7 +11,7 @@ I am Sejal or you can call me Sej, a recent graduate from Ontario Tech Universit
 - Getting warm and cozy and playing video games in the winter 🥶
 - Baking breads and cakes when I have too much time to kill 🧑‍🍳
 
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Sejal1109)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sejal1109&layout=compact)
 <!--
 
 **Sejal1109/Sejal1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
