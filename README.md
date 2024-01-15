@@ -1,6 +1,6 @@
 # Hello there, I am Sejal 👋
 
-I am Sejal or you can call me Sej, a recent graduate from Ontario Tech University with a degree in Computer Science! I am looking to launch my career in tech and mentorship to help me succeed!
+I am Sejal or you can call me Sej, a recent graduate from Ontario Tech University with a degree in Computer Science! I am looking to launch my career in tech and get mentorship to help me succeed!
 
 ### Things im curious about right now🤔
 - Enhancing my Web Development skills! I have recently taken to youtube🤓 to teach myself React as its one of the most in-demand web dev languages currently! I am slowly working towards building a personal portfilio website 👩‍💻
